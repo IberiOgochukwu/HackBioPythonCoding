@@ -1,0 +1,1 @@
+I have created a list of 5 team mates with details such as names, countries, preferred programming languages, etc. The programming language for the following is in Python. I started by creating a list (square brackets) in which we have within them details of each team member. This was don by creating a dictionary, that is by having these details in curly brackets.
